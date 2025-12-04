@@ -10,7 +10,7 @@ else:
     
     average=sum(marks)/len(marks)
 
-    print("student name:",name)
-    print("Internal test marks:",marks)
-    print("average internal score:",round(average,2))
+print("student name:",name)
+print("Internal test marks:",marks)
+print("average internal score:",round(average,2))
   
