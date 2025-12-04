@@ -1,7 +1,7 @@
 import sys
 
 if len(sys.argv) >=3:
-    name="Shweta"
+    name="xyz"
     marks=[float(m)for m in sys.argv[2]]
     
 else:
