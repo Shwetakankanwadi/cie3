@@ -5,7 +5,7 @@ if len(sys.argv) >=3:
     marks=[float(m)for m in sys.argv[2]]
     
 else:
-    name="Shweta"
+    name="xyz"
     marks=[45,50,65]
     
 average=sum(marks)/len(marks)
