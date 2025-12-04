@@ -2,7 +2,7 @@ import sys
 
 if len(sys.argv) >= 3:
     name = sys.argv[1]
-    marks = [float(m) for m in sys.argv[2]]  
+    marks = [float(m) for m in sys.argv[2:]]  
 else:
     name = "shweta"
     marks = [45, 50, 65]
